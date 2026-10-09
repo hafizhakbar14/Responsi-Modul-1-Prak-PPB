@@ -24,3 +24,5 @@ API ini dibangun untuk mengelola sistem pencatatan peminjaman buku perpustakaan.
       "books": { "title": "Bumi Manusia" }
     }
   ]
+  ## Link Hasil Deployment
+- **Vercel Base URL:** https://responsi-mod1-prak-ppb.vercel.app
